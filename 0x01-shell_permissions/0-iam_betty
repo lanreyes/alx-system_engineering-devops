@@ -1,2 +1,2 @@
-#!/bin/bash -a -m "bash7"
-
+#!/bin/bash
+su betty
