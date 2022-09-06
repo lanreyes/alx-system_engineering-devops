@@ -1,12 +1,2 @@
 #!/bin/bash
 cat /etc/passwd | tail
-git add .
-git commit -m "good5"
-git push
-
-
-
-
-
-
-
