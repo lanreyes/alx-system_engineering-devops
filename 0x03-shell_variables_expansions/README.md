@@ -1,2 +1,1 @@
-#!/bin/bash
-alias
+12-combinations
